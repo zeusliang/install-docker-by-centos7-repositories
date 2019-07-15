@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# UNSTALL OLDER DOCKER
+# UNINSTALL OLDER DOCKER
 yum remove docker \
                   docker-client \
                   docker-client-latest \
